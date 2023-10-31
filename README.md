@@ -2,6 +2,8 @@
 
 This Stock Predictor was created to explore the power of deep learning in decoding stock market trends and to bridge my interests in technology and finance.
 
+![Web App Screenshot](./Web%20App%20Picture.png)
+
 ## Dependencies
 To run this project ensure you have these libraries installed:<br><br>
 **NumPy:** Handles numerical operations and large arrays<br>
