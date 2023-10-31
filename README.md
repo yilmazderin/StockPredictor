@@ -14,14 +14,17 @@ To run this project ensure you have these libraries installed:<br><br>
 
 To install all dependencies at once:
 
-**pip install numpy pandas yfinance matplotlib pandas_datareader scikit-learn keras**
+**pip install numpy pandas yfinance matplotlib pandas_datareader scikit-learn keras streamlit tensorflow**
 
 ## Usage
 1. Copy the repository to your local machine.
 2. Open the app.py file.
-3. Enter a stock ticker name.
-4. View the stock's historical data along with the predicted values on the displayed charts.
-5. Experiment with different stock tickers to see varied predictions.
+3. Install all dependencies
+4. Enter "streamlit run app.py"
+5. Wait for the web app to compile.
+6. Enter a stock ticker name.
+7. View the stock's historical data along with the predicted values on the displayed charts.
+8. Experiment with different stock tickers to see varied predictions.
 
 ## Challenges Faced
 
