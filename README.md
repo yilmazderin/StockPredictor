@@ -9,7 +9,7 @@ To run this project ensure you have these libraries installed:<br><br>
 **NumPy:** Handles numerical operations and large arrays<br>
 **Pandas:** Provides tools and data structures for analysis<br>
 **yfinance:** Yahoo Finance's libary to use their information<br>
-**Scikit-learn:** Essential for feature extraction and computing the similarity scores of the movies.
+**Scikit-learn:** Essential for feature extraction and computing the similarity scores of the movies.<br>
 **Keras** Libraries needed for building neural networks and training the deep learning model
 
 To install all dependencies at once:
