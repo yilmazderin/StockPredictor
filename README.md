@@ -11,6 +11,7 @@ To run this project ensure you have these libraries installed:<br><br>
 **yfinance:** Yahoo Finance's libary to use their information<br>
 **Scikit-learn:** Essential for feature extraction and computing the similarity scores of the movies.<br>
 **Keras** Libraries needed for building neural networks and training the deep learning model
+**Streamlit:** Handles the front-end web interface<br>
 
 To install all dependencies at once:
 
